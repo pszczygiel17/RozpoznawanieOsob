@@ -17,5 +17,5 @@
 #### 5) Instal requirements for this project:
 - pip install -r requirements.txt
 
-#### 6) 10. Run script with command:
+#### 6) Run script with command:
 - python ./main.py
