@@ -50,4 +50,7 @@ class CreateWindow(object):
         self.textField.setReadOnly(True)
         self.baseLayout.addWidget(self.textField)
 
+    def changeTextFieldText(self, text):
+        self.textField.setText(text)
+
         
